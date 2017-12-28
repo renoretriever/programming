@@ -41,6 +41,7 @@ go test -v ./animals
 === RUN   TestRabbitFeed
 --- PASS: TestRabbitFeed (0.00s)
 PASS
+ok
 */
 
 /* NG

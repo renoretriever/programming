@@ -13,7 +13,7 @@ func TestAppName(t *testing.T) {
 	}
 }
 
-/*
+/* OK
 go test -v
 === RUN   TestAppName
 --- PASS: TestAppName (0.00s)
