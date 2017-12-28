@@ -12,3 +12,11 @@ func TestAppName(t *testing.T) {
 		t.Errorf("%s != %s", expect, actual)
 	}
 }
+
+/* OK
+go test -v
+=== RUN   TestAppName
+--- PASS: TestAppName (0.00s)
+PASS
+ok
+*/
